@@ -1,6 +1,0 @@
-C:\Users\guy\dev\gulp-deploy\service02\bin\Debug\service02.exe.config
-C:\Users\guy\dev\gulp-deploy\service02\bin\Debug\service02.exe
-C:\Users\guy\dev\gulp-deploy\service02\bin\Debug\service02.pdb
-C:\Users\guy\dev\gulp-deploy\service02\bin\Debug\Topshelf.dll
-C:\Users\guy\dev\gulp-deploy\service02\obj\Debug\service02.exe
-C:\Users\guy\dev\gulp-deploy\service02\obj\Debug\service02.pdb

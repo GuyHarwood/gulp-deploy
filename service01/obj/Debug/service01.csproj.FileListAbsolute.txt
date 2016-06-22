@@ -1,7 +1,0 @@
-C:\Users\guy\dev\gulp-deploy\service01\bin\Debug\service01.exe.config
-C:\Users\guy\dev\gulp-deploy\service01\bin\Debug\service01.exe
-C:\Users\guy\dev\gulp-deploy\service01\bin\Debug\service01.pdb
-C:\Users\guy\dev\gulp-deploy\service01\bin\Debug\Topshelf.dll
-C:\Users\guy\dev\gulp-deploy\service01\obj\Debug\service01.csprojResolveAssemblyReference.cache
-C:\Users\guy\dev\gulp-deploy\service01\obj\Debug\service01.exe
-C:\Users\guy\dev\gulp-deploy\service01\obj\Debug\service01.pdb
