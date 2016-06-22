@@ -1,0 +1,25 @@
+{
+  "name": "gulp-deploy",
+  "version": "1.0.0",
+  "description": "sample solution for gulp deployments",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyHarwood/gulp-deploy.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Guy Harwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuyHarwood/gulp-deploy/issues"
+  },
+  "homepage": "https://github.com/GuyHarwood/gulp-deploy#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
