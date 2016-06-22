@@ -1,1 +1,20 @@
-{}
+{
+    "Services": [
+        {
+            "Name": "service01",
+            "Executable": "service01.exe",
+            "DisplayName": "Optimistic Speaking Clock Service"
+        },
+        {
+            "Name": "service02",
+            "Executable": "service02.exe",
+            "DisplayName": "Pessimistic Speaking Clock Service"
+        }
+    ],
+    "Websites": [
+        {
+            "Name": "MainApi",
+            "SourceFolder":"api01"
+        }
+    ]
+}

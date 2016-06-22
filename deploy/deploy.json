@@ -1,1 +1,50 @@
-{}
+{
+    "Defaults": {
+        "DeploymentFolder": "C:\\AppComponents",
+        "TempFolder": "dist"
+    },
+    "Environments": [
+        {
+            "Id": "dev",
+            "Description": "local dev environment",
+            "Configuration": {
+                "ConfigTransformTarget": "Debug",
+                "StartServicesAfterInstall": true,
+                "Database": {
+                    "Name": "DevData",
+                    "Server": "(localhost)"
+                },
+                "Services": [],
+                "Websites": []
+            }
+        },
+        {
+            "Id": "staging",
+            "Description": "staging environment",
+            "Configuration": {
+                "ConfigTransformTarget": "Staging",
+                "StartServicesAfterInstall": true,
+                "Database": {
+                    "Name": "StagingData",
+                    "Server": "MyStagingServer.Company.Com"
+                },
+                "Services": [],
+                "Websites": []
+            }
+        },
+        {
+            "Id": "production",
+            "Description": "production environment",
+            "Configuration": {
+                "ConfigTransformTarget": "Prod",
+                "StartServicesAfterInstall": true,
+                "Database": {
+                    "Name": "ProductionData",
+                    "Server": "MyProductionServer.Company.com"
+                },
+                "Services": [],
+                "Websites": []
+            }
+        }
+    ]
+}
